@@ -16,6 +16,6 @@ I am always eager to learn new technologies, collaborate on projects, and keep u
 
 💬 Ask me about C#, .NET, and web development
 
-📫 How to reach me: <a href="https://github.com/erenuysaldev" disabled="false"><span><strong>GitHub</strong></span></a> | <a href="https://www.linkedin.com/feed/" disabled="false"><span><strong>Linkedin</strong></span></a>
+📫 How to reach me: <a href="https://github.com/erenuysaldev" disabled="false"><span><strong>GitHub</strong></span></a> | <a href="https://www.linkedin.com/in/erenuysall/" disabled="false"><span><strong>Linkedin</strong></span></a>
 
 Let’s build something amazing together! ✨
