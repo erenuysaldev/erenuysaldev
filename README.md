@@ -8,7 +8,7 @@ My primary focus is on the C# and .NET ecosystem, where I create dynamic and int
 
 I am always eager to learn new technologies, collaborate on projects, and keep up with industry trends to advance my career. 🚀
 
-🔭 I’m currently working on an e-commerce project with ASP.NET MVC and SQL Server
+🔭 I’m currently working on a chat app
 
 🌱 I’m currently learning ASP.NET
 
