@@ -9,23 +9,7 @@ My primary focus is on the C# and .NET ecosystem, where I create dynamic and int
 I am always eager to learn new technologies, collaborate on projects, and keep up with industry trends to advance my career. 🚀
 <p>
 <div align="center">
-  <img src="https://img.shields.io/badge/-aspnet-99c0ff?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=282828"><br/>
-  <img src="https://img.shields.io/badge/-Solidity-660099?style=for-the-badge&logo=solidity&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-NodeJS-660099?style=for-the-badge&logo=node.js&logoColor=ffffff&labelColor=282828">
-  <img src="https://img.shields.io/badge/-PHP-660099?style=for-the-badge&logo=php&logoColor=ffffff&labelColor=282828"><br/>
-  <img src="https://img.shields.io/badge/-JavaScript-c58545?style=for-the-badge&logo=javascript&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-TypeScript-c58545?style=for-the-badge&logo=typescript&logoColor=c58545&labelColor=282828"><br/>
-  <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-CSS-c58545?style=for-the-badge&logo=css3&logoColor=c58545&labelColor=282828">
-  <img src="https://img.shields.io/badge/-C%23-c58545?style=for-the-badge&logo=c&logoColor=c58545&labelColor=282828"><br/>
-  <img src="https://img.shields.io/badge/-Photoshop-6082B6?style=for-the-badge&logo=adobephotoshop&logoColor=6082B6&labelColor=282828">
-  <img src="https://img.shields.io/badge/-After Effects-6082B6?style=for-the-badge&logo=adobeaftereffects&logoColor=6082B6&labelColor=282828">
-  <img src="https://img.shields.io/badge/-Illustrator-6082B6?style=for-the-badge&logo=adobeillustrator&logoColor=6082B6&labelColor=282828">
-</div>
-</div>
-</p>
-</div>
-
+  
 <div align="center">
   <a href="#!">
   <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/096f537fcee505624cb6721a7ec98fc8379e5ce6/resources/img/grid-snake.svg"
