@@ -22,13 +22,6 @@ I am always eager to learn new technologies, collaborate on projects, and keep u
 </div>
 </p>
 </div>
-
-<div align="center">
-  <a href="#!">
-  <img  src="https://raw.githubusercontent.com/1999AZZAR/1999AZZAR/096f537fcee505624cb6721a7ec98fc8379e5ce6/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
  <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -56,7 +49,7 @@ I am always eager to learn new technologies, collaborate on projects, and keep u
 </p>
 <br>
 
-[![Erenivon's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erenuysaldev&theme=tokyo-night)](#!)
+[![erenuysaldev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erenuysaldev&theme=tokyo-night)](#!)
 </details>
 
 📫 How to reach me: <a href="https://github.com/erenuysaldev" disabled="false"><span><strong>GitHub</strong></span></a> | <a href="https://www.linkedin.com/in/erenuysall/" disabled="false"><span><strong>Linkedin</strong></span></a>
