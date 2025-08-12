@@ -52,5 +52,4 @@ I am always eager to learn new technologies, collaborate on projects, and keep u
 [![erenuysaldev's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=erenuysaldev&theme=tokyo-night)](#!)
 </details>
 
-📫 How to reach me: <a href="https://github.com/erenuysaldev" disabled="false"><span><strong>GitHub</strong></span></a> | <a href="https://www.linkedin.com/in/erenuysall/" disabled="false"><span><strong>Linkedin</strong></span></a>
 
