@@ -1,4 +1,4 @@
-Hi there 👋
+
 
 Hello! I'm Eren Uysal, a passionate software developer dedicated to continuously improving and expanding my skills in the field of software development.
 
