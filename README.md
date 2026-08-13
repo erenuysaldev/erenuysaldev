@@ -6,7 +6,7 @@ I have hands-on experience with various technologies, including C#, .NET, ASP.NE
 
 My primary focus is on the C# and .NET ecosystem, where I create dynamic and interactive web applications with ASP.NET MVC. At the same time, I enhance user interfaces with modern web development techniques using JavaScript, HTML, and CSS to ensure they are both aesthetic and functional.
 
-I am always eager to learn new technologies, collaborate on projects, and keep up with industry trends to advance my career. 🚀
+I am always eager to learn new technologies, collaborate on projects, and keep up with industry trends to advance my career. 🚀 Was..
 <p>
 <div align="center">
   <img src="https://img.shields.io/badge/-aspnet-99c0ff?style=for-the-badge&logo=dotnet&logoColor=ffffff&labelColor=282828"><br/>
@@ -28,7 +28,7 @@ I am always eager to learn new technologies, collaborate on projects, and keep u
       <br/>
         <p align="center">
           <a href="https://github.com/erenuysaldev/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenuysaldev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="erenivon :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenuysaldev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="eren :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/erenuysaldev/">
