@@ -28,7 +28,7 @@ I am always eager to learn new technologies, collaborate on projects, and keep u
       <br/>
         <p align="center">
           <a href="https://github.com/erenuysaldev/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenuysaldev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="erenivon :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erenuysaldev&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="eren :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/erenuysaldev/">
